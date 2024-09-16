@@ -1,5 +1,5 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1495&pause=1020&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+Leonardo%F0%9F%91%8B;Hello%2C+I'm+Leonardo+%F0%9F%91%8B)](https://git.io/typing-svg)
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1495&pause=1000&color=F7F7F7&width=435&lines=20+anos+de+idade;20+years+old)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+Leonardo%F0%9F%91%8B;Hello%2C+I'm+Leonardo+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1505&pause=1000&color=F7F7F7&width=435&lines=20+anos+de+idade;20+years+old)](https://git.io/typing-svg)
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo_reissss/)
