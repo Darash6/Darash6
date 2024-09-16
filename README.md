@@ -74,7 +74,7 @@
 ![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)
 
 ### 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1495&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%93%8D+Contagem+de+visitantes+do+perfil;%F0%9F%93%8D+Profile+Visitor+Count)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1480&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%93%8D+Contagem+de+visitantes+do+perfil;%F0%9F%93%8D+Profile+Visitor+Count)](https://git.io/typing-svg)
 <p align="left">
   <img
     src="https://profile-counter.glitch.me/darash6/count.svg"
