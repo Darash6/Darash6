@@ -7,13 +7,13 @@
   <tr>
     <td>
       <img
-        align="left" align="center"
+        align="left" align=""
         src="https://github-readme-stats.vercel.app/api?username=darash6&theme=radical&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
-       <img height = 210 align="center" 
+       <img height = 210 align="" 
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=darash6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
