@@ -21,7 +21,7 @@
     </td>
     <td>
       <br />
-           <img align="center"
+           <img align=""
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=darash6&theme=radical&hide_border=false"
         alt="Github Stats"
