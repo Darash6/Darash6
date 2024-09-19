@@ -8,14 +8,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Darash6&theme=radical&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=darash6&theme=radical&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
        <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Darash6&theme=radical&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=darash6&theme=radical&hide_border=false"
         alt="Github Stats"
     />
     </td>
@@ -23,7 +23,7 @@
       <br />
            <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darash6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=darash6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
 
   </tr>
