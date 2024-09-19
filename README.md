@@ -7,7 +7,7 @@
   <tr>
     <td>
       <img
-        align="left" 
+        align="left" align="center"
         src="https://github-readme-stats.vercel.app/api?username=darash6&theme=radical&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
@@ -21,7 +21,7 @@
     </td>
     <td>
       <br />
-           <img 
+           <img align="center"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=darash6&theme=radical&hide_border=false"
         alt="Github Stats"
