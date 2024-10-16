@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+Leonardo%F0%9F%91%8B;Hello%2C+I'm+Leonardo+%F0%9F%91%8B)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&width=435&lines=20+anos+de+idade;20+years+old)](https://git.io/typing-svg)
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <table>
   <tr>
