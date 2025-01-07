@@ -21,7 +21,7 @@
     </td>
     <td style="width: 33%; text-align: center;">
       <img
-        src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darash6&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)"
+        src="https://github-readme-streak-stats.herokuapp.com?user=Darash6&theme=radical&hide_border=true"
         alt="Github Stats"
         style="height: 200px; width: auto;"
       />
