@@ -21,10 +21,11 @@
     </td>
     <td style="width: 33%; text-align: center;">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Darash6&theme=radical&hide_border=true"
+        src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darash6&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)"
         alt="Github Stats"
-        style="height: auto; width: auto;"
+        style="height: 200px; width: auto;"
       />
+      
     </td>
   </tr>
 </table>
