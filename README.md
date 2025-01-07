@@ -23,7 +23,7 @@
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=Darash6&theme=radical&hide_border=true"
         alt="Github Stats"
-        style="height: 200px; width: auto;"
+        style="height: auto; width: auto;"
       />
     </td>
   </tr>
