@@ -25,7 +25,6 @@
         alt="Github Stats"
         style="height: 200px; width: auto;"
       />
-      
     </td>
   </tr>
 </table>
