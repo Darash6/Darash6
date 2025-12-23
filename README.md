@@ -1,37 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+eu+sou+Leonardo%F0%9F%91%8B;Hello%2C+I'm+Leonardo+%F0%9F%91%8B)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=F7F7F7&width=435&lines=20+anos+de+idade;20+years+old)](https://git.io/typing-svg)
 
-## ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td style="width: 33%; text-align: center;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=darash6&theme=radical&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-        style="height: 200px; width: auto;"
-      />
-    </td>
-    <td style="width: 33%; text-align: center;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=darash6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-        style="height: 230px; width: auto;" 
-      />
-    </td>
-    <td style="width: 33%; text-align: center;">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=darash6&theme=radical&hide_border=false"
-        alt="Github Stats"
-        style="height: 200px; width: auto;"
-      />
-    </td>
-  </tr>
-</table>
-
-  
-
-
+## ⚙️ 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo_reissss/)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/darash6/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Adept_Trainer_4459/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardopyjav@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](darash6)
 
@@ -74,13 +44,7 @@
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
 ![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white)
 
-### 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1480&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%93%8D+Contagem+de+visitantes+do+perfil;%F0%9F%93%8D+Profile+Visitor+Count)](https://git.io/typing-svg)
-<p align="left">
-  <img
-    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-    alt="Número de visitantes no perfil"
-  />
+
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 </p>
