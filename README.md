@@ -78,7 +78,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1480&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%93%8D+Contagem+de+visitantes+do+perfil;%F0%9F%93%8D+Profile+Visitor+Count)](https://git.io/typing-svg)
 <p align="left">
   <img
-    src="https://profile-counter.glitch.me/darash6/count.svg"
+    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
     alt="Número de visitantes no perfil"
   />
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
